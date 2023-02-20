@@ -9,7 +9,7 @@ const NavBar = () => {
             <div className="app-header">{metadata.appName}</div>
             <div className="nav-links">
                 <a
-                    href="https://github.com/CodeVinayak/spotify"
+                    href="https://github.com/Gauravxx/LoopOn"
                     target="_blank"
                     rel="noreferrer"
                 >
